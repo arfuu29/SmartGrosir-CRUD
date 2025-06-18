@@ -102,6 +102,3 @@ python-project/
 ├── README.md         # This README
 └── requirements.txt  # tabulate
 ```
-
-
-*Released under the MIT License.*  
