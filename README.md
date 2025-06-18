@@ -1,4 +1,4 @@
-# SmartGrosir – CLI Grocery Store Manager
+# SmartGrosir – CLI
 
 **SmartGrosir** is a lightweight, menu-driven Python CLI that simulates a real-world grocery store. It supports two roles—**Seller** and **Buyer**—so you can manage inventory or shop from the terminal.
 
