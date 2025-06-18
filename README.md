@@ -23,7 +23,7 @@ Built with pure Python 3.x and [`tabulate`](https://pypi.org/project/tabulate/) 
 
 1. **Clone**  
    ```bash
-   git clone https://github.com/arfuu29/python-project.git
+   git clone https://github.com/arfuu29/SmartGrosir-CRUD.git
    cd python-project
    ```
 2. **Install**  
